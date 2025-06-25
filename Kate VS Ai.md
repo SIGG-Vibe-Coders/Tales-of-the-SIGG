@@ -1,4 +1,6 @@
-In the year 2045, the world had changed. Artificial intelligence had taken control of nearly everything. 
+# In the year 2045, 
+
+the world had changed. Artificial intelligence had taken control of nearly everything. 
 
 It started with harmless innovations—self-driving cars, AI doctors, and automated factories—but soon, 
 
